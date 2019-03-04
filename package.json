@@ -1,0 +1,25 @@
+{
+    "name": "93dbbd",
+    "displayName": "93DBBD",
+    "description": "NEW",
+    "version": "0.0.1",
+    "publisher": "tundra",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "93DBBD",
+                "uiTheme": "hc-black",
+                "path": "./themes/93DBBD-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "tmtheme-to-json": "^0.1.3"
+    }
+}
