@@ -319,7 +319,14 @@
 					"scope": "variable.language.this.js",
 					"settings": {
 							"fontStyle": "italic"
-					}
+					},
+                },
+                {
+					"scope": "storage.modifier.async.js",
+					"settings": {
+                            "fontStyle": "italic",
+                            "foreground": "#fd9610"
+					},
 				}
     ]
 }
