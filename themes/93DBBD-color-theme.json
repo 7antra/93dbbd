@@ -81,7 +81,9 @@
         "progressBar.background": "#cc3333",
         "errorForeground": "#ff0000",
         "extensionButton.prominentBackground": "#cc3333",
-        "extensionButton.prominentHoverBackground": "#cc333388"
+        "extensionButton.prominentHoverBackground": "#cc333388",
+        "editorUnnecessaryCode.border": "#221c1c",
+        "editorUnnecessaryCode.opacity": "#ffe79290"
     },
 
     "tokenColors": [
