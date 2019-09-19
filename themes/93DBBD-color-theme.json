@@ -84,6 +84,7 @@
         "extensionButton.prominentHoverBackground": "#cc333388",
         "editorUnnecessaryCode.border": "#221c1c",
         "editorUnnecessaryCode.opacity": "#ffe79290"
+        
     },
 
     "tokenColors": [
@@ -137,6 +138,12 @@
             "scope": "variable",
             "settings": {
                 "foreground": "#FFE792"
+            }
+        },
+        {
+            "scope": "variable.other.object.js",
+            "settings": {
+                "fontStyle": "bold"
             }
         },
         {
