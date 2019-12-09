@@ -154,17 +154,7 @@
       }
     },
 
-=======
-
   "tokenColors": [
-    {
-      "name": "Comment",
-      "scope": "comment",
-      "settings": {
-        "foreground": "#6B7470",
-        "background": "#FFF1C0"
-      }
-    },
     {
       "name": "String",
       "scope": "string",
@@ -192,7 +182,6 @@
       "settings": {
         "fontStyle": "bold",
         "foreground": "#FFE792",
-        "background": "#5C6D4A"
       }
     },
     {
@@ -215,7 +204,6 @@
         "fontStyle": "bold"
       }
     },
->>>>>>> d62fa2fd8aa474027485069df716f6acd8d6e831
     {
       "name": "Keyword",
       "scope": "keyword",
@@ -316,7 +304,6 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#F92672",
         "fontStyle": "",
         "foreground": "#F8F8F0"
       }
@@ -325,7 +312,6 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#AE81FF",
         "foreground": "#F8F8F0"
       }
     },
