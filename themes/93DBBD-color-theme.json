@@ -37,12 +37,21 @@
     "editorBracketMatch.border": "#93DBBD",
     "editor.background": "#000000",
     "editorGroup.border": "#93DBBD",
+    "terminal.border": "#ff0000",
+    "tab.activeBorderTop": "#93dbbd",
+    "tab.hoverBorder": "#ff0000",
+    "editorGroupHeader.tabsBorder": "#93DBBD",
+    "panelTitle.activeBorder": "#00ffdd",
+    //"editorBracketMatch.border": "#93DBBD",
+    "editor.background": "#000000",
+    "editorGroup.border": "#93dbbd",
     "editorCursor.foreground": "#5AB187",
     "editor.foreground": "#F8F8F8",
     "editorWhitespace.foreground": "#c10000",
     "editor.selectionBackground": "#93DBBD",
     "editorLineNumber.foreground": "#292929",
     "editorLineNumber.activeForeground": "#BCE8D3",
+    //"editorLineNumber.activeForeground": "#BCE8D3",
     "editorWidget.background": "#300000",
     "editorHoverWidget.background": "#000000",
     "editorSuggestWidget.background": "#300000",
@@ -153,6 +162,68 @@
       }
     },
 
+=======
+
+  "tokenColors": [
+    {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#6B7470",
+        "background": "#FFF1C0"
+      }
+    },
+    {
+      "name": "String",
+      "scope": "string",
+      "settings": {
+        "foreground": "#86ADC6"
+      }
+    },
+    {
+      "name": "Number",
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#FF5733"
+      }
+    },
+    {
+      "name": "Number",
+      "scope": "constant.numeric.css",
+      "settings": {
+        "foreground": "#FFD8A7"
+      }
+    },
+    {
+      "name": "Built-in constant",
+      "scope": "constant.language",
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#FFE792",
+        "background": "#5C6D4A"
+      }
+    },
+    {
+      "name": "User-defined constant",
+      "scope": ["constant.character", "constant.other"],
+      "settings": {
+        "foreground": "#FFE792"
+      }
+    },
+    {
+      "name": "Variable",
+      "scope": "variable",
+      "settings": {
+        "foreground": "#FFE792"
+      }
+    },
+    {
+      "scope": "variable.other.object.js",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+>>>>>>> d62fa2fd8aa474027485069df716f6acd8d6e831
     {
       "name": "Keyword",
       "scope": "keyword",
