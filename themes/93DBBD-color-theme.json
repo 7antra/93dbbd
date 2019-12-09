@@ -34,7 +34,7 @@
     "tab.hoverBorder": "#93dbbd",
     "editorGroupHeader.tabsBorder": "#93DBBD",
     "panelTitle.activeBorder": "#ff0000",
-    "editorBracketMatch.border": "#93DBBD",
+    //"editorBracketMatch.border": "#93DBBD",
     "editor.background": "#000000",
     "editorGroup.border": "#93DBBD",
     "editorCursor.foreground": "#5AB187",
