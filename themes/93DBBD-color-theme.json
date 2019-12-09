@@ -121,8 +121,7 @@
       "scope": "constant.language",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#FFE792",
-        "background": "#5C6D4A"
+        "foreground": "#FFE792"
       }
     },
     {
