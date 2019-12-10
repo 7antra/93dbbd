@@ -89,6 +89,13 @@
 
   "tokenColors": [
     {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#6B7470"
+      }
+    },
+    {
       "name": "String",
       "scope": "string",
       "settings": {
