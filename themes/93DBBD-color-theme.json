@@ -89,13 +89,6 @@
 
   "tokenColors": [
     {
-      "name": "Comment",
-      "scope": "comment",
-      "settings": {
-        "foreground": "#6B7470",
-      }
-    },
-    {
       "name": "String",
       "scope": "string",
       "settings": {
@@ -149,51 +142,6 @@
       "settings": {
         "fontStyle": "bold",
         "foreground": "#92fff8"
-      }
-    },
-
-  "tokenColors": [
-    {
-      "name": "String",
-      "scope": "string",
-      "settings": {
-        "foreground": "#86ADC6"
-      }
-    },
-    {
-      "name": "Number",
-      "scope": "constant.numeric",
-      "settings": {
-        "foreground": "#FF5733"
-      }
-    },
-    {
-      "name": "Number",
-      "scope": "constant.numeric.css",
-      "settings": {
-        "foreground": "#FFD8A7"
-      }
-    },
-    {
-      "name": "Built-in constant",
-      "scope": "constant.language",
-      "settings": {
-        "fontStyle": "bold",
-        "foreground": "#FFE792",
-      }
-    },
-    {
-      "name": "User-defined constant",
-      "scope": ["constant.character", "constant.other"],
-      "settings": {
-        "foreground": "#FFE792"
-      }
-    },
-    {
-      "name": "Variable",
-      "scope": "variable",
-      "settings": {
-        "foreground": "#FFE792"
       }
     },
     {
@@ -265,7 +213,7 @@
       "name": "Tag name",
       "scope": "entity.name.tag",
       "settings": {
-        "fontStyle": "BOLD",
+        "fontStyle": "bold",
         "foreground": "#FFE792"
       }
     },
