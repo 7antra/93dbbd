@@ -59,6 +59,8 @@
     "peekView.border": "#ff000044",
     "peekViewResult.background": "#400000",
     "peekViewEditor.background": "#300000",
+    //fold
+    "editor.foldBackground": "#93dbbd1e",
 
     // UI
     "debugToolBar.background": "#ff0000",
